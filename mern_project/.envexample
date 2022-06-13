@@ -1,0 +1,4 @@
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = mongodb://abdullaharshad4773:asdzxc123456@cluster0-shard-00-00.hobns.mongodb.net:27017,cluster0-shard-00-01.hobns.mongodb.net:27017,cluster0-shard-00-02.hobns.mongodb.net:27017/?ssl=true&replicaSet=atlas-jqevm7-shard-0&authSource=admin&retryWrites=true&w=majority
+JWT_SECRET = asdzxc123456
